@@ -1,0 +1,38 @@
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.exe.config
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.exe
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.pdb
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Google.Protobuf.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\Renci.SshNet.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\bin\Debug\MySql.Data.xml
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csprojAssemblyReference.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.Properties.Resources.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.GenerateResource.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.CoreCompileInputs.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.CopyComplete
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.exe
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.pdb
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmLogIn.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmCadUsuario.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmUsuario.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.TelaConfiguracoes.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.exe.config
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.exe
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Projeto Banco de Dados.pdb
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Google.Protobuf.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\Renci.SshNet.dll
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\bin\Debug\MySql.Data.xml
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csprojAssemblyReference.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmLogIn.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.Properties.Resources.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmCadUsuario.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.TelaConfiguracoes.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto_Banco_de_Dados.frmUsuario.resources
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.GenerateResource.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.CoreCompileInputs.cache
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.csproj.CopyComplete
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.exe
+E:\Downloads\Banco de Dados\Trabalho\Codigo Fonte\Projeto Banco de Dados [João Milone]\Projeto Banco de Dados\obj\Debug\Projeto Banco de Dados.pdb
